@@ -20,13 +20,15 @@ TOKENをメモっておく。
 
 ### DISCORD チャンネル作成
 フル機能を使いたい際に必要なチャンネルは
-- 兵団登録
+- 兵団登録 
 - 統率値登録
 - レベル登録
 - 兵団ID登録(private)
 - bot動作用(private)
 - 出欠確認
 ※必ずしも上と名称を一致させる必要はない。
+
+[別doc参照](discord_channel.md)
 
 ### DISCORD settingsの登録
 
